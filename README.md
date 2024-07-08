@@ -11,7 +11,7 @@
 ## Склонировать репозиторий себе на локальный компьютер:
 
 ```bash
-git clone https://github.com/Alexadr45/dolphin_segmentation.git
+git clone https://github.com/Alexadr45/Speech_recognition.git
 cd dolphin_segmentation
 ```
 
