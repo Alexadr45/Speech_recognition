@@ -12,7 +12,7 @@
 
 ```bash
 git clone https://github.com/Alexadr45/Speech_recognition.git
-cd dolphin_segmentation
+cd Speech_recognition
 ```
 
 ### Установить необходимые инструменты:
