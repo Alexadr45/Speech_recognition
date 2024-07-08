@@ -6,22 +6,22 @@
 
 Весь анализ в блокноте .ipynb или по ссылке [[Анализ](https://colab.research.google.com/drive/1jbMv4XCBUQLVlkzo97ynfWW09xWA0AZz?usp=sharing)]
 
-Для воспроизведения результата:
+## Для воспроизведения результата:
 
-## Склонировать репозиторий себе на локальный компьютер:
+### Склонировать репозиторий себе на локальный компьютер:
 
 ```bash
 git clone https://github.com/Alexadr45/Speech_recognition.git
 cd dolphin_segmentation
 ```
 
-## Установить необходимые инструменты:
+### Установить необходимые инструменты:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Запустить скрипты
+### Запустить скрипты
 
 ```bash
 python3 task1.py
